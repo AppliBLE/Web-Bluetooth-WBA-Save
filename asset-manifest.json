@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/EW2023_p2pRouter_Demo/static/css/main.59c06c94.css",
-    "main.js": "/EW2023_p2pRouter_Demo/static/js/main.90e2c009.js",
+    "main.js": "/EW2023_p2pRouter_Demo/static/js/main.666b0634.js",
     "static/media/WBA_transparent.png": "/EW2023_p2pRouter_Demo/static/media/WBA_transparent.7e527fcd9822cfa4e33a.png",
     "static/media/WB_transparent.png": "/EW2023_p2pRouter_Demo/static/media/WB_transparent.87ffb26bcfe5586514ea.png",
+    "static/media/LP.png": "/EW2023_p2pRouter_Demo/static/media/LP.f8019a5b32ecfb9db4f1.png",
+    "static/media/LPS_low.png": "/EW2023_p2pRouter_Demo/static/media/LPS_low.0392aa0b677285326e83.png",
     "static/media/DK_low.png": "/EW2023_p2pRouter_Demo/static/media/DK_low.88506f43afcbf6de590e.png",
-    "static/media/LPS_low.png": "/EW2023_p2pRouter_Demo/static/media/LPS_low.bf3b67e8f09e24b36502.png",
     "static/media/CEB_low.png": "/EW2023_p2pRouter_Demo/static/media/CEB_low.ba847d2b9afaddc302c8.png",
     "static/media/lightbulb.png": "/EW2023_p2pRouter_Demo/static/media/lightbulb.56b1ad57b3e483924fa4.png",
     "static/media/all.png": "/EW2023_p2pRouter_Demo/static/media/all.3589d7fe58709b8d3c84.png",
     "static/media/door_lock.png": "/EW2023_p2pRouter_Demo/static/media/door_lock.61a72c69b4acc1858525.png",
-    "static/media/LP.jpg": "/EW2023_p2pRouter_Demo/static/media/LP.c78bc1142dd02197b8e2.jpg",
     "static/media/st-logo.svg": "/EW2023_p2pRouter_Demo/static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
     "index.html": "/EW2023_p2pRouter_Demo/index.html",
     "static/media/lightOnBlue.svg": "/EW2023_p2pRouter_Demo/static/media/lightOnBlue.e4933a8ad55d6eebfa0310c67cde2082.svg",
@@ -21,10 +21,10 @@
     "static/media/lightOffBlue.svg": "/EW2023_p2pRouter_Demo/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/EW2023_p2pRouter_Demo/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
     "main.59c06c94.css.map": "/EW2023_p2pRouter_Demo/static/css/main.59c06c94.css.map",
-    "main.90e2c009.js.map": "/EW2023_p2pRouter_Demo/static/js/main.90e2c009.js.map"
+    "main.666b0634.js.map": "/EW2023_p2pRouter_Demo/static/js/main.666b0634.js.map"
   },
   "entrypoints": [
     "static/css/main.59c06c94.css",
-    "static/js/main.90e2c009.js"
+    "static/js/main.666b0634.js"
   ]
 }
