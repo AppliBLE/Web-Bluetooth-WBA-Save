@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EW2023_p2pRouter_Demo/static/css/main.1d38015a.css",
-    "main.js": "/EW2023_p2pRouter_Demo/static/js/main.566f1e03.js",
+    "main.css": "/EW2023_p2pRouter_Demo/static/css/main.8d151f4f.css",
+    "main.js": "/EW2023_p2pRouter_Demo/static/js/main.7d546624.js",
     "static/media/WBA_transparent.png": "/EW2023_p2pRouter_Demo/static/media/WBA_transparent.7e527fcd9822cfa4e33a.png",
     "static/media/WB_transparent.png": "/EW2023_p2pRouter_Demo/static/media/WB_transparent.87ffb26bcfe5586514ea.png",
     "static/media/LP.png": "/EW2023_p2pRouter_Demo/static/media/LP.f8019a5b32ecfb9db4f1.png",
@@ -20,11 +20,11 @@
     "static/media/house.svg": "/EW2023_p2pRouter_Demo/static/media/house.b6e57e50f5455e915347f63f8d4783ea.svg",
     "static/media/lightOffBlue.svg": "/EW2023_p2pRouter_Demo/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/EW2023_p2pRouter_Demo/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
-    "main.1d38015a.css.map": "/EW2023_p2pRouter_Demo/static/css/main.1d38015a.css.map",
-    "main.566f1e03.js.map": "/EW2023_p2pRouter_Demo/static/js/main.566f1e03.js.map"
+    "main.8d151f4f.css.map": "/EW2023_p2pRouter_Demo/static/css/main.8d151f4f.css.map",
+    "main.7d546624.js.map": "/EW2023_p2pRouter_Demo/static/js/main.7d546624.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d38015a.css",
-    "static/js/main.566f1e03.js"
+    "static/css/main.8d151f4f.css",
+    "static/js/main.7d546624.js"
   ]
 }
