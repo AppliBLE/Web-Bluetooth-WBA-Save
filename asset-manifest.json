@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Web-Bluetooth-WBA-Save/static/css/main.692808c3.css",
-    "main.js": "/Web-Bluetooth-WBA-Save/static/js/main.8adbd3c2.js",
+    "main.js": "/Web-Bluetooth-WBA-Save/static/js/main.01be8b56.js",
     "static/media/DK1.png": "/Web-Bluetooth-WBA-Save/static/media/DK1.870e121b928bf5ca6181.png",
     "static/media/NUCLEO_board.png": "/Web-Bluetooth-WBA-Save/static/media/NUCLEO_board.f9049e57e4ff95efec2c.png",
     "static/media/libra.gif": "/Web-Bluetooth-WBA-Save/static/media/libra.62f280a890b83d503b83.gif",
@@ -26,7 +26,10 @@
     "index.html": "/Web-Bluetooth-WBA-Save/index.html",
     "static/media/HRlogo.png": "/Web-Bluetooth-WBA-Save/static/media/HRlogo.6d2c247d856e44cb2faa.png",
     "static/media/Zigbee.png": "/Web-Bluetooth-WBA-Save/static/media/Zigbee.8e9505eef343cf529eb6.png",
+    "static/media/WSlogo.png": "/Web-Bluetooth-WBA-Save/static/media/WSlogo.751fb306b261e8977cb0.png",
     "static/media/P2PSlogo.png": "/Web-Bluetooth-WBA-Save/static/media/P2PSlogo.aa40e8d95a98f48318b1.png",
+    "static/media/RSClogo.png": "/Web-Bluetooth-WBA-Save/static/media/RSClogo.a848195544d33097b2d2.png",
+    "static/media/BLlogo.png": "/Web-Bluetooth-WBA-Save/static/media/BLlogo.e117818b5fa8db3f3ef1.png",
     "static/media/st-logo.svg": "/Web-Bluetooth-WBA-Save/static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
     "static/media/glucose-meter.svg": "/Web-Bluetooth-WBA-Save/static/media/glucose-meter.4bbe5df63c7bd20151e61a03c477add3.svg",
     "static/media/sneaker.svg": "/Web-Bluetooth-WBA-Save/static/media/sneaker.30769323ec0d1abad1f6d84aa8a5595b.svg",
@@ -48,10 +51,10 @@
     "static/media/lightOffBlue.svg": "/Web-Bluetooth-WBA-Save/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
     "static/media/lightOffPink.svg": "/Web-Bluetooth-WBA-Save/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
     "main.692808c3.css.map": "/Web-Bluetooth-WBA-Save/static/css/main.692808c3.css.map",
-    "main.8adbd3c2.js.map": "/Web-Bluetooth-WBA-Save/static/js/main.8adbd3c2.js.map"
+    "main.01be8b56.js.map": "/Web-Bluetooth-WBA-Save/static/js/main.01be8b56.js.map"
   },
   "entrypoints": [
     "static/css/main.692808c3.css",
-    "static/js/main.8adbd3c2.js"
+    "static/js/main.01be8b56.js"
   ]
 }
